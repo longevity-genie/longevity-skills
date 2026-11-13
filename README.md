@@ -90,3 +90,4 @@ Then invoke with `/aging-news-digest` or by describing the task. In Cursor and C
 ## Skills
 
 - [`aging-news-digest/`](aging-news-digest/SKILL.md) — compiles a comprehensive aging/longevity/geroscience news digest (business, conferences, research preprints & peer-reviewed papers, AI foundation models, grant opportunities) into a HEALES-style PDF and an interactive HTML dashboard. Works standalone or as a recurring scheduled task.
+- [`omics-reanalysis/`](omics-reanalysis/SKILL.md) — a checklist for re-analysing and comparing public omics datasets across studies (single-cell and bulk RNA-seq, DNA methylation): raw data the archives really keep, one reference and pinned versions, metadata from the archive, QC once with gates, integration scored on independent labels, reference-based annotation tested before use, and how each step is verified. The methylation section is a draft awaiting expert review.

@@ -58,6 +58,7 @@ Copy the whole skill directory — not only `SKILL.md`.
 ## Current skills
 
 - `aging-news-digest` — HEALES-style aging/longevity news digest (PDF + interactive HTML dashboard); interactive or scheduled.
+- `omics-reanalysis` — best-practice checklist for cross-study omics re-analysis (scRNA-seq, bulk RNA-seq, DNA methylation); methylation section in draft.
 
 ## Working in this repo
 
